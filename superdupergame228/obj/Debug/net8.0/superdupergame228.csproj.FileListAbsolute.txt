@@ -1,0 +1,14 @@
+C:\Users\Azerty\Desktop\megaGame\superdupergame228\superdupergame228\bin\Debug\net8.0\superdupergame228.exe
+C:\Users\Azerty\Desktop\megaGame\superdupergame228\superdupergame228\bin\Debug\net8.0\superdupergame228.deps.json
+C:\Users\Azerty\Desktop\megaGame\superdupergame228\superdupergame228\bin\Debug\net8.0\superdupergame228.runtimeconfig.json
+C:\Users\Azerty\Desktop\megaGame\superdupergame228\superdupergame228\bin\Debug\net8.0\superdupergame228.dll
+C:\Users\Azerty\Desktop\megaGame\superdupergame228\superdupergame228\bin\Debug\net8.0\superdupergame228.pdb
+C:\Users\Azerty\Desktop\megaGame\superdupergame228\superdupergame228\obj\Debug\net8.0\superdupergame228.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azerty\Desktop\megaGame\superdupergame228\superdupergame228\obj\Debug\net8.0\superdupergame228.AssemblyInfoInputs.cache
+C:\Users\Azerty\Desktop\megaGame\superdupergame228\superdupergame228\obj\Debug\net8.0\superdupergame228.AssemblyInfo.cs
+C:\Users\Azerty\Desktop\megaGame\superdupergame228\superdupergame228\obj\Debug\net8.0\superdupergame228.csproj.CoreCompileInputs.cache
+C:\Users\Azerty\Desktop\megaGame\superdupergame228\superdupergame228\obj\Debug\net8.0\superdupergame228.dll
+C:\Users\Azerty\Desktop\megaGame\superdupergame228\superdupergame228\obj\Debug\net8.0\refint\superdupergame228.dll
+C:\Users\Azerty\Desktop\megaGame\superdupergame228\superdupergame228\obj\Debug\net8.0\superdupergame228.pdb
+C:\Users\Azerty\Desktop\megaGame\superdupergame228\superdupergame228\obj\Debug\net8.0\superdupergame228.genruntimeconfig.cache
+C:\Users\Azerty\Desktop\megaGame\superdupergame228\superdupergame228\obj\Debug\net8.0\ref\superdupergame228.dll

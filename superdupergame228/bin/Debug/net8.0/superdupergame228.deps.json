@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "superdupergame228/1.0.0": {
+        "runtime": {
+          "superdupergame228.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "superdupergame228/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
